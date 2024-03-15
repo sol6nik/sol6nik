@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [my resume](https://hh.ru/resume/5135f196ff0c88af6e0039ed1f6d594a523468)
 
-- 📝 I regularly write articles on [t.me/ipodymov](t.me/ipodymov)
+- 📝 I regularly write articles on [telegram](t.me/ipodymov)
 
 - 📫 How to reach me **podymovv55@gmail.com**
 
