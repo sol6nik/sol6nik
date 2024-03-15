@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate backend developer from Moscow</h3>
 
-- 🌱 I’m currently learning **REACT / DJANGO**
+- 🌱 I’m currently learning **VUE / DJANGO**
 
-- 👨‍💻 All of my projects are available at [https://hh.ru/resume/2f8c5588ff083798ed0039ed1f306442695462](https://hh.ru/resume/2f8c5588ff083798ed0039ed1f306442695462)
+- 👨‍💻 All of my projects are available at [my resume](https://hh.ru/resume/5135f196ff0c88af6e0039ed1f6d594a523468)
 
 - 📝 I regularly write articles on [t.me/ipodymov](t.me/ipodymov)
 
