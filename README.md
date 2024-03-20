@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A passionate backend developer from Moscow</h3>
+<h3 align="center">A passionate fullstack developer from Moscow</h3>
 
 - 🌱 I’m currently learning **VUE / DJANGO**
 
-- 👨‍💻 All of my projects are available at [my resume](https://hh.ru/resume/5135f196ff0c88af6e0039ed1f6d594a523468)
-
-- 📝 I regularly write articles on [telegram](t.me/ipodymov)
+- 📝 I regularly write articles on [TELEGRAM](t.me/ipodymov)
 
 - 📫 How to reach me **podymovv55@gmail.com**
+
+- 📄 Know about my experiences [resume](https://hh.ru/resume/5135f196ff0c88af6e0039ed1f6d594a523468)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
