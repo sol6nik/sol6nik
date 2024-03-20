@@ -1,9 +1,12 @@
 # 💫 About Me:
 My name is Ivan and I'm fullstack developer
-
+<br><br>
 🌱 I’m currently learning VUE / DJANGO
+<br><br>
 📝 I regularly write articles on [TELEGRAM](t.me/ipodymov)
+<br><br>
 📫 How to reach me **podymovv55@gmail.com**
+<br><br>
 📄 Know about my experiences [resume](https://hh.ru/resume/5135f196ff0c88af6e0039ed1f6d594a523468)
 
 
