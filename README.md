@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Ivan and I'm fullstack developer
 <br><br>
-🌱 I’m currently learning VUE / DJANGO
+🌱 I’m currently learning REACT / DJANGO
 <br><br>
 📝 I regularly write articles on [TELEGRAM](t.me/ipodymov)
 <br><br>
