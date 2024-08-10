@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/sol6nik)  
   
 
-- ❓ Ask me about anything [telegram](t.me/sol6nik)  
+- ❓ Ask me about anything [telegram](t.me/sol6nik) or [vk](https://vk.com/soulgrok)  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
