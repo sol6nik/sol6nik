@@ -7,9 +7,6 @@
 - ❓ Ask me about anything [telegram](t.me/sol6nik) or [vk](https://vk.com/soulgrok)  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
